@@ -13,6 +13,7 @@
 		FE5BE63F228BA66D00599FA3 /* secondGitProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FE5BE63D228BA66D00599FA3 /* secondGitProject.xcdatamodeld */; };
 		FE5BE641228BA66E00599FA3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FE5BE640228BA66E00599FA3 /* Assets.xcassets */; };
 		FE5BE644228BA66E00599FA3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE5BE642228BA66E00599FA3 /* LaunchScreen.storyboard */; };
+		FE5BE64C228BB00500599FA3 /* SwiftOOP.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE5BE64B228BB00500599FA3 /* SwiftOOP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FE5BE640228BA66E00599FA3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FE5BE643228BA66E00599FA3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FE5BE645228BA66E00599FA3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE5BE64B228BB00500599FA3 /* SwiftOOP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftOOP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FE5BE636228BA66D00599FA3 /* AppDelegate.swift */,
 				FE5BE638228BA66D00599FA3 /* ViewController.swift */,
+				FE5BE64B228BB00500599FA3 /* SwiftOOP.swift */,
 				FE5BE63A228BA66D00599FA3 /* Main.storyboard */,
 				FE5BE640228BA66E00599FA3 /* Assets.xcassets */,
 				FE5BE642228BA66E00599FA3 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE5BE64C228BB00500599FA3 /* SwiftOOP.swift in Sources */,
 				FE5BE63F228BA66D00599FA3 /* secondGitProject.xcdatamodeld in Sources */,
 				FE5BE639228BA66D00599FA3 /* ViewController.swift in Sources */,
 				FE5BE637228BA66D00599FA3 /* AppDelegate.swift in Sources */,
